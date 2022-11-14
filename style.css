@@ -1,0 +1,38 @@
+.container1  {
+    background-color:#20B2AA;
+    color:white;
+    padding: 50px;
+    margin: 20pt;
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    border-style:dotted;
+    color:red
+}
+
+.container2 {
+    background-color:#FFA07A;
+    color:white;
+    padding: 50px;
+    margin: 20pt;
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    border: 1rem solid;
+    color:red
+}
+
+.container3 {
+    background-color:#B0C4DE;
+    color:white;
+    padding: 50px;
+    margin: 20pt;
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    border-style: solid;
+    border-left-color: #000000;
+}

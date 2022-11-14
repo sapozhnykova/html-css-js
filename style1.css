@@ -1,0 +1,32 @@
+.style {
+    margin: 30px 180px 30px 180px;
+    padding: 20px;
+    font-size: 20pt;
+    text-align: left;
+    color: white;
+    border-width:thick;
+    border-style: double;
+    color:white
+}
+
+.style1 {
+    margin: 30px 180px 30px 180px;
+    padding: 20px;
+    font-size: 20pt;
+    text-align: center;
+    color: #8B4513;
+    border-width:thick;
+    border-style: double;
+    color:#8B4513;
+}
+
+.style2 {
+    margin: 30px 180px 30px 180px;
+    padding: 20px;
+    font-size: 20pt;
+    text-align: right;
+    color: #181870;
+    border-width:thick;
+    border-style: double;
+    color:#181870;
+}
